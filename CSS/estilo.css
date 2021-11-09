@@ -1,0 +1,103 @@
+body{
+  width: 1360px;
+  height: 960px;
+}
+body{
+  font-size: 20px;
+}
+
+
+.centered{
+position: relative;
+top: -100px;
+left: 550px;
+color: rgb(212, 209, 209);
+font-size: 50px;
+font-family: 'Exo', sans-serif;
+font-family: 'Knewave', cursive;
+}
+
+
+header{
+  position: relative;
+  top: -35px;
+  left: 30px;
+}
+
+div.texto{
+  position: relative;
+  left: 380px;
+  top:-400px
+  }
+
+  h2{
+   text-align: center;
+   position: relative;
+   top: -400px;
+   font-family: sans-serif;
+ }
+h3 {
+  text-align: center;
+  position: relative;
+  top: -250px;
+  font-size: 40px;
+}
+img.janela{
+  position: relative;
+  top: -180px;
+  left: 20px;
+}
+div.segundo{
+  position: relative;
+  left: 400px;
+  top: -500px;
+}
+img.azul{
+  position: relative;
+  left: 20px;
+  top: -380px;
+}
+div.terceiro{
+  position: relative;
+  left: 450px;
+  top: -850px;
+}
+h4{
+  text-align: center;
+  position: relative;
+  top: -750px;
+  font-size: 30px;
+
+}
+
+div.quarto{
+  position: relative;
+  left: 50px;
+  top:-700px
+  
+}
+ img.estatua{
+   position:relative;
+   left: 150px;
+   top: -650px;
+ }
+
+div.quinto {
+  position:relative ;
+  left: 100px;
+  top: -600px;
+}
+p{
+  font-family: 'Exo', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
