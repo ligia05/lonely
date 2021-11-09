@@ -4,20 +4,36 @@ body{
 }
 body{
   font-size: 20px;
+  color: azure;
+  background-color: rgb(7, 7, 29);
 }
 
 
 .centered{
 position: relative;
-top: -100px;
+top: -200px;
 left: 550px;
 color: rgb(212, 209, 209);
 font-size: 50px;
 font-family: 'Exo', sans-serif;
 font-family: 'Knewave', cursive;
 }
+img.logo{
+  position: relative;
+  left: 30px;
+top: -130px;
+}
 
-
+img.chuva{
+  position: relative;
+  left: 1000px;
+  top: -500px;
+}
+img.van{
+  position: relative;
+  right: 120px;
+  top: -20px;
+}
 header{
   position: relative;
   top: -35px;
@@ -27,9 +43,13 @@ header{
 div.texto{
   position: relative;
   left: 380px;
-  top:-400px
+  top:-600px
   }
-
+a.musica{
+  color: aliceblue;
+font-weight: bolder;
+}
+  
   h2{
    text-align: center;
    position: relative;
@@ -87,6 +107,21 @@ div.quinto {
   left: 100px;
   top: -600px;
 }
+ label.mensagem{
+   position: relative;
+   left: 200px;
+   top: -550px;
+
+ }
+  
+h5{
+position: relative;
+left: 40px;
+bottom: 10px;
+font-size: 20px;
+
+}
+
 p{
   font-family: 'Exo', sans-serif;
 }
