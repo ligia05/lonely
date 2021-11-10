@@ -1,7 +1,11 @@
-body{
-  width: 1360px;
-  height: 960px;
+
+body {
+  margin: 0px;
+width: 1280;
+
 }
+
+
 body{
   font-size: 20px;
   color: azure;
@@ -9,19 +13,37 @@ body{
 }
 
 
-.centered{
-position: relative;
-top: -200px;
-left: 550px;
-color: rgb(212, 209, 209);
-font-size: 50px;
-font-family: 'Exo', sans-serif;
-font-family: 'Knewave', cursive;
+header {
+  background: rgb(8,120,157);
+  background: linear-gradient(90deg, rgba(8,120,157,1) 2%, rgba(86,141,152,1) 45%, rgba(33,179,207,1) 89%);
+  position: fixed;
+  width: 1280px;
+  height: 120px;
+  top: 5px;;
+  right: 100px;
 }
+img.sol{
+  position: relative;
+  left: 330px;
+
+}
+img.fpreto{
+  position: relative;
+  left: 30px;
+}
+
+
+
+
+
+
+
+
 img.logo{
   position: relative;
   left: 30px;
 top: -130px;
+opacity: 0.7;
 }
 
 img.chuva{
