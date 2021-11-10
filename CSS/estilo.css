@@ -16,7 +16,7 @@ position: relative;
 img.titulo{
   position: relative;
   left: 500px;
-  top: 50px;
+  top: 20px;
 
 }
 
@@ -59,7 +59,7 @@ img.janela{
 img.azul{
   position: relative;
  right: 480px;
-  top: 1200px;
+  top: 1300px;
  
 }
 
@@ -76,7 +76,7 @@ h2{
 div.texto{
   position: relative;
   left: 380px;
-  top:-600px
+  top:-450px
   }
 a.musica{
   color: aliceblue;
@@ -88,21 +88,21 @@ font-weight: bolder;
 h3 {
   text-align: center;
   position: relative;
-  top: -250px;
-  font-size: 40px;
+  top: -400px;
+  font-size: 20px;
 }
 
 
 div.segundo{
   position: relative;
   left: 400px;
-  top: -500px;
+  top: -400px;
 }
 
 div.terceiro{
   position: relative;
-  left: 450px;
-  top: -850px;
+  left: 50px;
+  top: -350px;
 }
 h4{
   text-align: center;
@@ -115,26 +115,21 @@ h4{
 div.quarto{
   position: relative;
   left: 50px;
-  top:-700px
+  top:-250px;
   
 }
  img.estatua{
    position:relative;
    left: 150px;
-   top: -650px;
+   top: 1050px;
  }
 
 div.quinto {
   position:relative ;
   left: 100px;
-  top: -600px;
+  top: -800px;
 }
- label.mensagem{
-   position: relative;
-   left: 200px;
-   top: -550px;
 
- }
   
 h5{
 position: relative;
