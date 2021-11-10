@@ -5,6 +5,7 @@ body{
 }
 
 header {
+  box-shadow:  0 1px 20px rgba(235, 227, 227, 0.582);
   background: rgb(8,120,157);
   background: linear-gradient(90deg, rgba(8,120,157,1) 2%, rgba(86,141,152,1) 45%, rgba(33,179,207,1) 89%);
   width: 120%;
@@ -13,13 +14,12 @@ header {
   right: 100px;
 position: relative;
 }
-img.titulo{
+img.titulo {
   position: relative;
   left: 500px;
   top: 20px;
 
 }
-
 
 aside{
   position:inherit;
@@ -32,17 +32,13 @@ img.fpreto{
 }
 
 
-img.logo{
-  position: relative;
-  left: 30px;
-top: -130px;
-opacity: 0.7;
-}
+
+
 
 img.chuva{
   position: relative;
-  left: 1000px;
-  top: -500px;
+  left: 900px;
+  top: -520px;
 }
 img.van{
   position: relative;
@@ -69,7 +65,7 @@ main{
 h2{
   text-align: center;
   position: relative;
-  top: -300px;
+  top: -500px;
   font-family: sans-serif;
 }
 
@@ -89,7 +85,9 @@ h3 {
   
   position: relative;
   top: -400px;
-  font-size: 20px;
+  font-size: 30px;
+left: 30px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 
