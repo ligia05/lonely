@@ -1,42 +1,35 @@
-
-body {
-  margin: 0px;
-width: 1280;
-
-}
-
-
 body{
   font-size: 20px;
   color: azure;
   background-color: rgb(7, 7, 29);
 }
 
-
 header {
   background: rgb(8,120,157);
   background: linear-gradient(90deg, rgba(8,120,157,1) 2%, rgba(86,141,152,1) 45%, rgba(33,179,207,1) 89%);
-  position: fixed;
-  width: 1280px;
+  width: 100%;
   height: 120px;
   top: 5px;;
   right: 100px;
+position: relative;
 }
-img.sol{
+img.titulo{
   position: relative;
-  left: 330px;
+  left: 500px;
+  top: 50px;
 
 }
+
+
+aside{
+  position:inherit;
+}
+
 img.fpreto{
   position: relative;
   left: 30px;
+  top: 20px;
 }
-
-
-
-
-
-
 
 
 img.logo{
@@ -53,13 +46,31 @@ img.chuva{
 }
 img.van{
   position: relative;
-  right: 120px;
-  top: -20px;
+  right:200px;
+  top: 500px;
 }
-header{
+img.janela{
   position: relative;
-  top: -35px;
-  left: 30px;
+  top: 800px;
+  right: 800px;
+
+}
+
+img.azul{
+  position: relative;
+ right: 480px;
+  top: 1200px;
+ 
+}
+
+main{
+  position: relative;
+}
+h2{
+  text-align: center;
+  position: relative;
+  top: -300px;
+  font-family: sans-serif;
 }
 
 div.texto{
@@ -72,33 +83,22 @@ a.musica{
 font-weight: bolder;
 }
   
-  h2{
-   text-align: center;
-   position: relative;
-   top: -400px;
-   font-family: sans-serif;
- }
+ 
+ 
 h3 {
   text-align: center;
   position: relative;
   top: -250px;
   font-size: 40px;
 }
-img.janela{
-  position: relative;
-  top: -180px;
-  left: 20px;
-}
+
+
 div.segundo{
   position: relative;
   left: 400px;
   top: -500px;
 }
-img.azul{
-  position: relative;
-  left: 20px;
-  top: -380px;
-}
+
 div.terceiro{
   position: relative;
   left: 450px;
