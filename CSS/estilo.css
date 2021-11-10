@@ -7,7 +7,7 @@ body{
 header {
   background: rgb(8,120,157);
   background: linear-gradient(90deg, rgba(8,120,157,1) 2%, rgba(86,141,152,1) 45%, rgba(33,179,207,1) 89%);
-  width: 100%;
+  width: 120%;
   height: 120px;
   top: 5px;;
   right: 100px;
@@ -52,14 +52,14 @@ img.van{
 img.janela{
   position: relative;
   top: 800px;
-  right: 800px;
+  right: 850px;
 
 }
 
 img.azul{
   position: relative;
- right: 480px;
-  top: 1300px;
+left: 430px;
+  top: 1700px;
  
 }
 
@@ -86,7 +86,7 @@ font-weight: bolder;
  
  
 h3 {
-  text-align: center;
+  
   position: relative;
   top: -400px;
   font-size: 20px;
@@ -95,7 +95,7 @@ h3 {
 
 div.segundo{
   position: relative;
-  left: 400px;
+  left: 10px;
   top: -400px;
 }
 
@@ -105,39 +105,38 @@ div.terceiro{
   top: -350px;
 }
 h4{
-  text-align: center;
+left: 500px;
   position: relative;
-  top: -750px;
+  top: -250px;
   font-size: 30px;
-
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 div.quarto{
   position: relative;
   left: 50px;
   top:-250px;
+ 
   
 }
- img.estatua{
-   position:relative;
+ img.estatua {
+
+  box-shadow:  0 1px 20px rgba(235, 227, 227, 0.582);
+  position:relative;
    left: 150px;
-   top: 1050px;
+   top: -180px;
+ 
+ 
  }
 
 div.quinto {
   position:relative ;
   left: 100px;
-  top: -800px;
+  
 }
 
   
-h5{
-position: relative;
-left: 40px;
-bottom: 10px;
-font-size: 20px;
 
-}
 
 p{
   font-family: 'Exo', sans-serif;
